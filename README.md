@@ -1,6 +1,8 @@
-# P-4 Piiquante
+# P-6 Piiquante
 Site de notation de sauce piquante
 
 Projet effectué pour OpenClassrooms
 
-Le but de se projet est de corriger le code fournie pour obtenir une meilleur note de référencement avec lighthouse
+Premier projet Back-End avec express.js et mongoDB. Toute la partie Front était fournie.
+
+Pour lancer le projet, il peut être nécessaire de mettre à jour angular
